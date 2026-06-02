@@ -12,7 +12,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #ff9741;
+  background-color: #ffc0d8;
   position: fixed;
   top: 0;
   width: 100%;
@@ -32,11 +32,11 @@ li a {
 }
 
 li a:hover:not(.active) {
-  background-color: rgb(255, 203, 33);
+  background-color: rgb(184, 28, 80);
 }
 
 .active {
-  background-color: rgb(255, 201, 101);
+  background-color: rgb(194, 8, 95);
 }
 
 h1 {
